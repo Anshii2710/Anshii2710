@@ -1,4 +1,5 @@
-## My name is Anshika Chaudhary and I am a 3rd year student at NIT Kurukshetra with a major in AIML. 👋
+# 👋 Hi there, I'm Anshika Chaudhary!
+🎓 I’m a 3rd-year student at **NIT Kurukshetra**, majoring in **Artificial Intelligence & Machine Learning**.  
 - 🔭 I am passionate about Artificial Intelligence and Machine Learning and am currently acknowledging it.
 ## 🚀 Projects I've Worked On
 - 🐶 **Cats vs Dogs Classifier** — Deep learning model to classify pet images  
