@@ -1,11 +1,17 @@
-## Hi there 👋
+## My name is Anshika Chaudhary and I am a 3rd year student at NIT Kurukshetra with a major in AIML. 👋
+- 🔭 I am passionate about Artificial Intelligence and Machine Learning and am currently acknowledging it.
+## 🚀 Projects I've Worked On
+- 🐶 **Cats vs Dogs Classifier** — Deep learning model to classify pet images  
+- 🩺 **PCOS Diagnosis System** — Health-tech project using ML for medical predictions  
+- 💻 **Desktop Assistant** — Automating desktop tasks using Python  
+- 📚 **Plagiarism Detector for AI Teacher Assistant** — An AI-powered system for detecting academic plagiarism  
 
 <!--
 **Anshii2710/Anshii2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
